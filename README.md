@@ -11,4 +11,4 @@ For the data, I have used the data from Dummy API testing website called json pl
 ## Running the application: 
     It is assumed that you have Node installed in your system, if not please refer to: https://nodejs.org/en/download/
 
-    ### Fork/clone this repository in your system and do: <code>npm start<code>
+### Fork/clone this repository in your system and do: <code>npm start<code>
