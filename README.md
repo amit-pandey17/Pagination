@@ -9,6 +9,6 @@ This is an extension to React Bootstrap Table 2 called Paginator(Probably Doofen
 For the data, I have used the data from Dummy API testing website called json placeholder using the photos data: https://jsonplaceholder.typicode.com/photos.
 
 ## Running the application: 
-    It is assumed that you have Node installed in your system, if not please refer to: https://nodejs.org/en/download/
+It is assumed that you have Node installed in your system, if not please refer to: https://nodejs.org/en/download/
 
 ### Fork/clone this repository in your system and do: <code>npm start<code>
